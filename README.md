@@ -1,0 +1,2 @@
+# github.com-ifeoluwa112113-ifeoluwa112113
+Hi, I'm Alawode Ifeoluwa Ezekiel 👋 🚀 CS Grad &amp; Front-End Dev | React • JS • Web3 • AI 🏀 6'2" Tall | Basketball &amp; Music lover. I bridge logic and creativity through code and instruments. 🛠️ Stack: HTML/CSS, JS, React. 📈 Focus: Building clean, user-centric apps at the intersection of AI &amp; Crypto. 📫 Disc/X Connect: @ifeoluwa12 / @Alawodeife72753
