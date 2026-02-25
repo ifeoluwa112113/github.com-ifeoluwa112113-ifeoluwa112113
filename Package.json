@@ -1,0 +1,31 @@
+{
+  "name": "modern-frontend-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Professional Frontend repository utilizing React 19, Vite 7, and modern CSS-in-JS patterns.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "format": "prettier --write \"src/**/*.{js,jsx,css,html}\""
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.470.0",
+    "framer-motion": "^12.0.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^4.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.5.0",
+    "vite": "^7.3.0"
+  }
+}
