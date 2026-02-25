@@ -1,0 +1,46 @@
+# --- SYSTEM FILES ---
+.DS_Store
+Thumbs.db
+*.log
+
+# --- DEPENDENCIES ---
+node_modules/
+jspm_packages/
+.pnp
+.pnp.js
+
+# --- CRITICAL SECURITY (Airdrop Protection) ---
+# Never upload your private keys or API secrets!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# --- BUILD & OUTPUT ---
+dist/
+build/
+.next/
+out/
+.vercel
+.turbo
+.cache/
+yarn-error.log*
+npm-debug.log*
+
+# --- TESTING & COVERAGE ---
+coverage/
+.nyc_output/
+junit.xml
+
+# --- IDE & TOOLS ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- TYPESCRIPT ---
+*.tsbuildinfo
